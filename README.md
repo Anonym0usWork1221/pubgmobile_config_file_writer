@@ -1,4 +1,4 @@
-# Config
+# Usage
 * It is the file which encode and decode the 
 * Config files of pubg all versions it is super easy to 
 * If you are using mobile phone then place it to your termux
